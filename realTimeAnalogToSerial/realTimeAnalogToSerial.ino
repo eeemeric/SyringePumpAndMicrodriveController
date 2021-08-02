@@ -1,4 +1,5 @@
-// https://thepoorengineer.com/en/arduino-python-plot/#arduinounsigned long timer = 0;
+// https://thepoorengineer.com/en/arduino-python-plot/#arduinounsigned 
+long timer = 0;
 long loopTime = 5000;   // microseconds
 
 void setup() {
